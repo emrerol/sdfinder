@@ -8,7 +8,8 @@ sdfinder is a very basic subdomain finder tool. It lists exact matches and redir
 >
 > You must provide a word list file because the tool doesn't.
 
-### Example outputs
+### Example Outputs
+
 #### HTTP Status 200
 
 > Found: mail.google.com 
